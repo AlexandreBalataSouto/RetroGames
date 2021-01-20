@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 474d491231544dc478323764ddea4ddf
+  - enabled: 1
+    path: Assets/Scenes/PongScene.unity
+    guid: 57d4403bb4aa8ba479dadd7a0f00ebdb
+  - enabled: 1
+    path: Assets/Scenes/ArkanoidScene.unity
+    guid: d392c915dbf51d54b8bd9069c64f8bda
+  - enabled: 1
+    path: Assets/Scenes/MinesweeperScene.unity
+    guid: bb61cd6858703be4db085a11b9626992
+  m_configObjects: {}
